@@ -22,7 +22,6 @@ Recent interests:
 - Law and Economics in evironment issues
 - Corporate Finance and business decision making
 - Entrepreneurship
-- Credit in Peer-to-peer economy and future of CO-OP
 
 # Education to show in About widget
 education:
@@ -63,4 +62,4 @@ email: ""
 highlight_name: false
 ---
 
-Shunya Hayashida is a independent social science researcher and CEO of cocolofun,inc. His research interests include Desicion Science, Political Economy, Public choice and Industrial Organization and leads the incubation team, which develops idea generation support tool, enhancing effectiveness of study services, and UX design for challenged person.
+Shunya Hayashida is a independent researcher and CEO of cocolofun,inc. His research interests include Desicion Science, Political Economy, Public choice and Industrial Organization and leads the incubation team, which develops idea generation support tool, enhancing effectiveness of study services, and UX design for challenged person.
